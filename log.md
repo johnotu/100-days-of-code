@@ -31,8 +31,10 @@
 
 ### Day 0: January 3, 2017
 
-**Today's Progress**: 
+**Today's Progress**: So I decided that going forward, I will be doing my Freecodecamp projects during the #100DaysOfCode untill they are all done. Today I started with the Weather App and was able to display location and weather details including icons.
 
-**Thoughts**: 
+**Thoughts**:
+* Went through issues using Chrome as it doesn't allow non https API calls. Open Weather's API unfortunately are called over http so I had to use Firefox.
+* Having challenges with an alternative to jQuery's toggle method which has since v1.8 been deprecated.
 
-**Link(s) to work**: 
+**Link(s) to work**: [Codepen](http://codepen.io/johnotu/full/VmwELX/)
